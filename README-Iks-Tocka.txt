@@ -1,0 +1,1 @@
+Kreiranje na igrata Iks - Tocka
