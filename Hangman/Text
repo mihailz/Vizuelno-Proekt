@@ -1,0 +1,12 @@
+This is one of the three games thereby presented with all their source code. 
+This is a folder for the game Hangman.
+Hangman is a game where from a database of words the player needs to guess a given word. In this exact game, the settings and the resources from the databse are set from the topic of Geography.
+
+#Rules:
+1. The player needs to guess one letter at a time which the word contains.
+2. If the letter is correct it will be added to the word.
+3. If the letter is false, a certain action will folow meaning the player will be closer to lose the game and be 'hanged'.
+4. In order to win the game, you need to correctly guess all the letters for the given word.
+5. We wish luck to all players and hope you are going to enjoy this game.
+
+From the developers
